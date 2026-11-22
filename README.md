@@ -112,6 +112,7 @@ My repositories cover distributed systems, REST APIs, performance benchmarking, 
 
 <div align="center">
 
+<a href="https://github.com/Yasineert/french-liaison-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=french-liaison-detection&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/transport-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=transport-ai&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/benchmarking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=benchmarking&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/kech-In"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=kech-In&theme=tokyonight&hide_border=true" /></a>
@@ -122,7 +123,7 @@ My repositories cover distributed systems, REST APIs, performance benchmarking, 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **French liaison detection** | Phoneme-level detection of French liaisons in children's read speech | wav2vec2 · eSpeak-NG · FastAPI · React · Docker |
+| [**French liaison detection**](https://yasineert.github.io/french-liaison-detection/) | Phoneme-level detection of French liaisons in children's read speech | wav2vec2 · eSpeak-NG · FastAPI · React · Docker |
 | **Phoneme CTC benchmark** | Fine-tuning and comparing WavLM, Wav2Vec2 and HuBERT for phoneme recognition | PyTorch · Hugging Face · Jupyter |
 | **french_z_liaison** | Modular Python library for /z/ liaison detection | Python |
 
