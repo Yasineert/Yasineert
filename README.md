@@ -113,6 +113,7 @@ My repositories cover distributed systems, REST APIs, performance benchmarking, 
 <div align="center">
 
 <a href="https://github.com/Yasineert/french-liaison-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=french-liaison-detection&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Yasineert/AquaWatch-MS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=AquaWatch-MS&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/transport-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=transport-ai&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/benchmarking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=benchmarking&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/kech-In"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=kech-In&theme=tokyonight&hide_border=true" /></a>
