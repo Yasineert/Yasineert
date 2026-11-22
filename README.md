@@ -48,13 +48,13 @@ class Yacine:
 Software engineer working across the full stack: backend services, web and mobile interfaces, DevOps pipelines, and applied AI.
 My repositories cover distributed systems, REST APIs, performance benchmarking, CI/CD, and speech-processing experiments.
 
-- 🔧 Building backend APIs and modern web interfaces
-- 🏗️ Designing microservices, service discovery, and scalable architectures
-- 📱 Developing cross-platform mobile applications
-- ⚙️ Automating builds and deployments with Docker, Kubernetes, Jenkins, and GitHub Actions
-- 🧪 Testing, observability, and load/performance analysis
-- 🧠 Fine-tuning speech models for phoneme recognition
-- 📐 Solid computer science foundations: algorithms, data structures, software design, compilers
+- Building backend APIs and modern web interfaces
+- Designing microservices, service discovery, and scalable architectures
+- Developing cross-platform mobile applications
+- Automating builds and deployments with Docker, Kubernetes, Jenkins, and GitHub Actions
+- Testing, observability, and load/performance analysis
+- Fine-tuning speech models for phoneme recognition
+- Solid computer science foundations: algorithms, data structures, software design, compilers
 
 ---
 
@@ -112,14 +112,13 @@ My repositories cover distributed systems, REST APIs, performance benchmarking, 
 
 <div align="center">
 
-<a href="https://github.com/Yasineert/AquaWatch-MS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=AquaWatch-MS&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/transport-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=transport-ai&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/benchmarking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=benchmarking&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/Yasineert/kech-In"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasineert&repo=kech-In&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
-**🔬 Speech & AI Research**
+**Speech & AI Research**
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -134,7 +133,7 @@ My repositories cover distributed systems, REST APIs, performance benchmarking, 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yasineert&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasineert&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasineert&layout=compact&langs_count=8&hide=jupyter%20notebook,tex&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Yasineert&theme=tokyonight&hide_border=true" />
 
